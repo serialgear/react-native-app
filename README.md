@@ -1,1 +1,1 @@
-# goit-react-native-hw
+Mobile Photo App: Capture, Share, and Connect with Your Photos. With our mobile photo app, you can unleash your creativity and capture stunning moments with just a tap.  Enhance your memories by adding location tags to remember where each photo was taken, and leave comments to share your thoughts and experiences. Stay connected with the power of visual storytelling. Download our mobile photo app and start capturing the world through your lens today.
